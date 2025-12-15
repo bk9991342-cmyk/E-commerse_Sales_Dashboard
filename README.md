@@ -8,3 +8,6 @@ The objective of this project is to analyze e-commerce sales data stored in Exce
 
 ## Process
 - Data cleaning in Excel → Data loading in Power BI → KPI creation → Dashboard visualization → Insights generation.
+
+## Dashboard
+- <a href="https://github.com/bk9991342-cmyk/E-commerse_Sales_Dashboard/blob/main/E-commerse%20Sales%20Dashboard.png">Dashboard</a>
