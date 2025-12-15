@@ -8,7 +8,7 @@ The objective of this project is to analyze e-commerce sales data stored in Exce
 
 ## Process
 - Data Collection
--- Collected e-commerce sales data stored in Excel files containing order, customer, product, and sales information.
+-> Collected e-commerce sales data stored in Excel files containing order, customer, product, and sales information.
 - Data Understanding
 - Reviewed the dataset to understand key fields such as order date, product category, sales amount, quantity, and region.
 - Data Cleaning in Excel
