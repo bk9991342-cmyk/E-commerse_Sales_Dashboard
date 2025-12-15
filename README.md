@@ -11,3 +11,10 @@ The objective of this project is to analyze e-commerce sales data stored in Exce
 
 ## Dashboard
 - <a href="https://github.com/bk9991342-cmyk/E-commerse_Sales_Dashboard/blob/main/E-commerse%20Sales%20Dashboard.png">Dashboard</a>
+
+## Project Insights
+-  Sales show clear seasonal trends, with peak performance during selected months.
+-  A small number of top products and categories contribute the majority of total revenue.
+-  Repeat customers generate higher average order value compared to new customers.
+-  Certain regions consistently outperform others in sales and order volume.
+-  Discounts help increase order volume but impact overall profit margins.
