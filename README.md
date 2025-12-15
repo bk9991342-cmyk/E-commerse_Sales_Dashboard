@@ -18,3 +18,6 @@ The objective of this project is to analyze e-commerce sales data stored in Exce
 -  Repeat customers generate higher average order value compared to new customers.
 -  Certain regions consistently outperform others in sales and order volume.
 -  Discounts help increase order volume but impact overall profit margins.
+
+## Final Conclusion
+Developed an interactive Power BI dashboard using Excel data to analyze e-commerce sales and deliver actionable business insights.
