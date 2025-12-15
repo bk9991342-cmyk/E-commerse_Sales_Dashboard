@@ -1,2 +1,4 @@
 # E-commerse_Sales_Dashboard
-This project demonstrates my hands-on experience in data analysis using Excel and Power BI. The dataset was cleaned, transformed, and analyzed to uncover key business insights. Interactive dashboards were created to track trends, performance metrics, and support data-driven decision-making.
+## Project Objective
+The objective of this project is to analyze e-commerce sales data stored in Excel and create an interactive Power BI dashboard that provides insights into sales performance, customer trends, and product-wise analysis. The dashboard enables stakeholders to track key KPIs and make data-driven business decisions.
+
